@@ -32,5 +32,5 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
 *  Model 2 performs better with a more accurate recall and f1 score for unhealthy, which I would think we would want to make sure we can predict this correctly. Since model 2 account for the over sampling and we see that are three times more values for healthy loans than unhealthy this almost a must for us.
-* It is more important to predict unhealthy loans because as a loan provider we are taking the risk.healthy loans are nice to know in advance, but knowing if a loan won't be good before we even approve good be crucial in making a lower rate or more competitive pricing.
+* It is more important to predict unhealthy loans because as a loan provider we are taking the risk.healthy loans are nice to know in advance, but knowing if a loan won't be good before we even approve good be crucial in making a lower rate or more competitive pricing. Overall I would reccommend this model and project to keep going.
 
